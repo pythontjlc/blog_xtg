@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T09:48:29.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="dtwTTkGDni-sNpf7_Rz3" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T10:16:48.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="OmWQ64siAlJ6hlbLtwjI" version="13.10.8" type="github">
   <diagram id="iOST615IHTNVgp9ad1BZ" name="ページ1">
-    <mxGraphModel dx="3930" dy="3454" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="2083" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="140" y="450" width="890" height="400" as="geometry" />
         </mxCell>
         <mxCell id="qhyCkcI-EQekB4RhnL2D-667" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=3;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="-899.0400000000001" width="243" height="199" as="geometry" />
+          <mxGeometry x="1630" y="-901.1300000000001" width="243" height="199" as="geometry" />
         </mxCell>
         <mxCell id="qhyCkcI-EQekB4RhnL2D-612" value="VPC002" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;shadow=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="476.09" y="-1130.08" width="1184.29" height="707.16" as="geometry" />
